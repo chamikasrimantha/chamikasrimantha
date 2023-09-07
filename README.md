@@ -1,4 +1,7 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+<br>
+Profile Views: [![HitCount](https://hits.dwyl.com/chamikasrimantha/chamikasrimantha.svg?style=flat-square)](http://hits.dwyl.com/chamikasrimantha/chamikasrimantha)
+
 <h2 align="center"> Hey ! I am Chamika Srimantha 🖐️ </h2>
 <h3 align="center">Professional & Qualified Mobile / Web Application Developer</h3>
 <br>
