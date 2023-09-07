@@ -2,7 +2,9 @@
 
 <h2 align="center"> Hey ! I am Chamika Srimantha 🖐️ </h2>
 <h3 align="center">Professional & Qualified Mobile / Web Application Developer</h3>
+
 Profile Views: [![HitCount](https://hits.dwyl.com/chamikasrimantha/chamikasrimantha.svg?style=flat)](http://hits.dwyl.com/chamikasrimantha/chamikasrimantha)
+
 <br>
 
 <img align="center" alt="Coding" width="400" height="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
