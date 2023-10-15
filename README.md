@@ -1,19 +1,16 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QyZDRjZWEzNzk2OTZiZDk3Yzg1YjYxOTRkMzI0MWRkYjVhYzVkNiZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="200px" height="200px"/>
+</div>
 
-<h2 align="center"> Hey ! I am Chamika Srimantha 🖐️ </h2>
-<h3 align="center">Professional & Qualified Mobile / Web Application Developer</h3>
+<h3 align="center"> Hey ! I am Chamika Srimantha 🖐️ </h2>
+<h4 align="center">Professional & Qualified Mobile / Web Application Developer</h3>
 
 <h4> Profile Views:</h4>
 
 [![HitCount](https://hits.dwyl.com/chamikasrimantha/chamikasrimantha.svg?style=flat)](http://hits.dwyl.com/chamikasrimantha/chamikasrimantha)
 
-<br>
-
-<img align="center" alt="Coding" width="400" height="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-<p align="left"> <a href="https://twitter.com/chamika_rox" target="blank"><img src="https://img.shields.io/twitter/follow/chamika_rox?logo=twitter&style=for-the-badge" alt="chamika_rox" /></a> </p>
-
-- 🌱 I’m currently learning **Software Engineering**
+I'm a Computer Science Student from SriLanka
+- 🌱  I’m pursuing my HND in Software Engineering.
 
 - 👨‍💻 All of my projects are available at **https://github.com/chamikasrimantha**
 
