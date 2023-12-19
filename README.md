@@ -10,7 +10,7 @@
 [![HitCount](https://hits.dwyl.com/chamikasrimantha/chamikasrimantha.svg?style=flat)](http://hits.dwyl.com/chamikasrimantha/chamikasrimantha)
 
 I'm a Computer Science Student from SriLanka.
-- 🌱  I’m pursuing my HND in Software Engineering (Pearson BTEC).
+- 🌱  I’m pursuing my <b>Bsc (Hons) Computer Science in Software Engineering</b> Degree at <b>Kingston University</b>.
 
 - 👨‍💻 Interested in Mobile/ Web Application Development.
 
