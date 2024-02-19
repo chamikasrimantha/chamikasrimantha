@@ -16,7 +16,7 @@ I'm a Computer Science Student from SriLanka.
 
 - 👨‍💻 Interested in `Mobile/ Web Application Development`.
 
-- 📫 My Personal Website **https://chamika-srimantha.me/**
+- 📫 My Personal Website **https://chamika-srimantha.live/**
 
 - 📫 How to reach me **chamikasrimantha2002@gmail.com**
 
