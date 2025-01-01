@@ -87,5 +87,5 @@ public class WhoAmI {
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 Chamika Srimantha
+  &copy; 2025 Chamika Srimantha
 </div>
